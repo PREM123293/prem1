@@ -70,11 +70,3 @@ Retail-Sales-Analysis/
 ```
 
 ---
-
-## 🗣️ Interview Summary
-> “I imported the dataset into SQL, cleaned missing values, and created aggregate queries to understand revenue and profitability. Then I connected SQL to Power BI to visualize monthly sales trends and category-wise profit distribution.”
-
----
-
-### 🚀 Author
-**Krishna Rajput**
